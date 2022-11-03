@@ -24,6 +24,11 @@ Here are some ideas to get you started:
  - release new version om SwiftUI (migrating from UIKit) [**Game Level Helper**](https://apps.apple.com/us/app/game-level-helper/id1499312939)
  - pet-project (Board Game Library)
 
+### ⚡ My Projects:
+ - [**Game Level Helper**](https://apps.apple.com/us/app/game-level-helper/id1499312939)
+ - [**Easy Math**](https://github.com/NadzeyaShpakouskaya/EasyMath)
+ - [**Crypto in Pocket**](https://github.com/NadzeyaShpakouskaya/CryptoInPocket)
+
 
 ### 🌱 Certificates and Courses :
  - [100 Days of SwiftUI](https://user-images.githubusercontent.com/32869814/185576950-83f3b44c-5af6-4e0d-9571-53bb350c8451.jpg)
