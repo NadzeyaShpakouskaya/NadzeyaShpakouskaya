@@ -1,8 +1,9 @@
-### Hi there 👋 I open for collaboration and work :) 
+### Hi there 👋 I am open to collaboration and work :) 
 
 I am an iOS developer with experience in building and testing mobile apps.
 I have experience with Swift, UIKit, SwiftUI.
 
+![NadzeyaShpakouskaya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NadzeyaShpakouskaya&theme=vue-dark&hide_border=true)
 
 <!--
 **NadzeyaShpakouskaya/NadzeyaShpakouskaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-### 🔭 I’m currently working on:
- - release new version om SwiftUI (migrating from UIKit) [**Game Level Helper**](https://apps.apple.com/us/app/game-level-helper/id1499312939)
- - pet-project (Board Game Library)
 
 ### ⚡ My Projects:
  - [**Game Level Helper**](https://apps.apple.com/us/app/game-level-helper/id1499312939)
