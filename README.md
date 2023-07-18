@@ -1,4 +1,5 @@
-### Hi there 👋 I am open to collaboration and work :) 
+### Hi there 👋 
+I am open to collaboration and work :) 
 
 I am an iOS developer with experience in building and testing mobile apps.
 I have experience with Swift, UIKit, SwiftUI.
