@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - [LinkedIn](https://t.co/EkJTY3hRF0).
 
 ### ⚡ My resume:
-- [My resume](https://github.com/NadzeyaShpakouskaya/pesonal_information/blob/main/iOS%20Developer%20-%20NADZEYA%20SHPAKOUSKAYA.pdf)
+- [My resume](https://github.com/NadzeyaShpakouskaya/personal_information/blob/main/iOS%20Developer%20-%20NADZEYA%20SHPAKOUSKAYA%20.pdf)
 
