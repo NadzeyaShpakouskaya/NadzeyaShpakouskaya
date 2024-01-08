@@ -44,5 +44,5 @@ Here are some ideas to get you started:
 
 
 ### 📄 My resume:
-- [My resume](https://github.com/NadzeyaShpakouskaya/personal_information/blob/main/NADZEYA%20SHPAKOUSKAYA%20-%20iOS%20Developer.pdf)
+- [My resume](https://github.com/NadzeyaShpakouskaya/personal_information/blob/main/iOS_Developer_NADZEYA_SHPAKOUSKAYA.pdf)
 
